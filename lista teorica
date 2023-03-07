@@ -1,0 +1,27 @@
+1- Em programação, o que é uma biblioteca?
+R: É o termo usado para definir o código-Fonte compilado 
+
+2- O que é a biblioteca Swing do Java e qual é o seu propósito?
+R: serve para criar um interfaces graficas 
+
+3- Quais são os componentes de interface gráfica de usuário (GUI) fornecidos pela biblioteca Swing para:
+
+Botão:JButton
+Campo de Texto: JTextFild
+Caixa de Seleção:JCheckBox
+Barra de Progresso:JProgressBar
+Botão de Opção: JRadionButton
+Caixa de Combinação: JComboBox
+
+4- Quais são os propósitos dos layouts no Swing? E quais são os layouts possíveis?
+R: Distribuir visualmemte os componentes que colocarmos. O Abosolute
+
+5- Como é possível fazer a validação de entrada de dados em campos de texto?
+R: a validação pode ser feita usando o IF.
+
+6- Pesquise e descreva três principais características entre a biblioteca Swing, a biblioteca AWT (Abstract Window Toolkit) e o JavaFX?
+R: As tres tem o mesmo intuito que sao criar interfaces graficas só que uma mas avançada que a outra proporcionando melhor visibilidade.
+   Elas contem os mesmo componentes.
+
+7- Pesquise o conceito de “Look and Feel” dentro do contexto de interfaces gráficas com Swing no Java. Procure alguns exemplos de temas, como o tema FlatLaf 
+R: São objetos que ao serem configurados na aplicação, vao modificar o modo como o usuario ira interagir ou vizualizar a interface grafica.
